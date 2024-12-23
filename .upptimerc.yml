@@ -39,7 +39,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.xdc.network
   # baseUrl: /your-repo-name
-  logoUrl: https://xinfin.org//assets/images/xdc-network-logo.svg
+  logoUrl: https://xinfin.org//assets/images/xdc-network-logo-white.svg
   name: XDC Network Status Monitor
   introTitle: "**XDC Network Status Monitor**"
   introMessage: "This is the XDC Network's real-time status page, powered entirely by GitHub Actions, Issues, and Pages. Stay updated with the network's health and key endpoints."
