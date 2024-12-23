@@ -58,19 +58,19 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "95.73%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
+    "time": 629,
+    "timeDay": 629,
+    "timeWeek": 629,
+    "timeMonth": 629,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-12-23": 0
+      "2024-12-23": 9
     }
   },
   {
