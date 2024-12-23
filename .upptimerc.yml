@@ -33,7 +33,11 @@ sites:
     url: https://forum.xinfin.org/
   - name: XDC Network GitHub
     url: https://github.com/XinFinOrg
-
+  - name: XDC Remix IDE
+    url: https://remix.xdc.network
+  - name: XDC Web Wallet 
+    url: https://wallet.xdc.network
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
