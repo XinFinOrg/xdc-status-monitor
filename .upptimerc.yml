@@ -5,18 +5,32 @@ repo: xdc-status-monitor  # The name of this repository
 sites:
   - name: XDC RPC Endpoint (Mainnet)
     url: https://rpc.xinfin.network
+  - name: XDC RPC Endpoint By OpenScan.ai
+    url: https://rpc.xdcrpc.com
+  - name: XDC RPC Endpoint By Ankr.com
+    url: https://rpc.ankr.com/xdc
   - name: XDC RPC Endpoint (Testnet - Apothem)
     url: https://rpc.apothem.network
+  - name: XDC Apothem RPC Endpoint By Ankr.com
+    url: https://rpc.ankr.com/xdc_testnet
+  - name: XDC Apothem RPC Endpoint By OpenScan.ai
+    url: https://apothem.xdcrpc.com
   - name: XDCScan Explorer (Mainnet)
     url: https://xdcscan.io
   - name: XDCScan Explorer (Testnet)
     url: https://apothem.xdcscan.io
+  - name: XDCScan MainNet Explorer (EtherScan)
+    url: https://xdcscan.com
+  - name: XDCScan Apothem Explorer (EtherScan)
+    url: https://testnet.xdcscan.com
   - name: XDC Faucet (Testnet)
     url: https://faucet.apothem.network
   - name: XDC Official Website
     url: https://xinfin.org
   - name: XDC Developer Portal
     url: https://xdc.dev
+  - name: XDC Forum
+    url: https://forum.xinfin.org/
   - name: XDC Network GitHub
     url: https://github.com/XinFinOrg
 
@@ -27,7 +41,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://xinfin.org//assets/images/xdc-network-logo.svg
   name: XDC Network Status Monitor
-  introTitle: "**XDC Network Status Monitor** - Powered by Upptime."
+  introTitle: "**XDC Network Status Monitor**"
   introMessage: "This is the XDC Network's real-time status page, powered entirely by GitHub Actions, Issues, and Pages. Stay updated with the network's health and key endpoints."
   navbar:
     - title: Status
