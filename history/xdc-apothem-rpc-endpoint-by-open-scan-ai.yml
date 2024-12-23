@@ -1,7 +1,7 @@
 url: https://apothem.xdcrpc.com
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2024-12-23T09:53:49.118Z
+status: down
+code: 502
+responseTime: 414
+lastUpdated: 2024-12-23T18:09:09.820Z
 startTime: 2024-12-23T06:13:03.716Z
 generator: Upptime <https://github.com/upptime/upptime>
