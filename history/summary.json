@@ -22,19 +22,19 @@
     "url": "https://rpc.xdcrpc.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xdcrpc.com.ico",
     "slug": "xdc-rpc-endpoint-by-open-scan-ai",
-    "status": "down",
-    "uptime": "96.63%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.63%",
-    "time": 361,
-    "timeDay": 358,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "status": "up",
+    "uptime": "96.43%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
+    "time": 359,
+    "timeDay": 356,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2024-12-25": 118
+      "2024-12-25": 126
     }
   },
   {
