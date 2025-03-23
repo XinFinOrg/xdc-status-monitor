@@ -129,7 +129,7 @@
     "timeMonth": 408,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-03-23": 1090,
+      "2025-03-23": 1268,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -421,11 +421,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/remix.xdc.network.ico",
     "slug": "xdc-remix-ide",
     "status": "up",
-    "uptime": "27.55%",
+    "uptime": "27.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.13%",
-    "uptimeYear": "27.55%",
+    "uptimeMonth": "47.54%",
+    "uptimeYear": "27.65%",
     "time": 3765,
     "timeDay": 286,
     "timeWeek": 319,
@@ -505,9 +505,9 @@
     "url": "https://wallet.xdc.network",
     "icon": "https://icons.duckduckgo.com/ip3/wallet.xdc.network.ico",
     "slug": "xdc-web-wallet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -517,6 +517,7 @@
     "timeMonth": 1671,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2025-03-23": 0,
       "2025-03-07": 7,
       "2025-02-24": 21
     }
