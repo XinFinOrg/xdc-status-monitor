@@ -4,17 +4,17 @@
     "url": "https://rpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.10%",
+    "uptimeDay": "94.09%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
-    "time": 362,
-    "timeDay": 303,
-    "timeWeek": 307,
-    "timeMonth": 281,
-    "timeYear": 362,
+    "time": 361,
+    "timeDay": 293,
+    "timeWeek": 299,
+    "timeMonth": 274,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2025-04-03": 85,
       "2025-02-26": 11,
@@ -38,7 +38,7 @@
     "time": 445,
     "timeDay": 392,
     "timeWeek": 660,
-    "timeMonth": 630,
+    "timeMonth": 637,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-03-23": 9,
@@ -69,7 +69,7 @@
     "time": 266,
     "timeDay": 227,
     "timeWeek": 190,
-    "timeMonth": 475,
+    "timeMonth": 485,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 293,
     "timeDay": 336,
     "timeWeek": 283,
-    "timeMonth": 249,
+    "timeMonth": 252,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-02-28": 7,
@@ -130,7 +130,7 @@
     "timeMonth": 423,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-04-03": 1384,
+      "2025-04-03": 1431,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -248,7 +248,7 @@
     "time": 674,
     "timeDay": 596,
     "timeWeek": 781,
-    "timeMonth": 1074,
+    "timeMonth": 1095,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2025-04-01": 6,
@@ -269,7 +269,7 @@
     "time": 393,
     "timeDay": 516,
     "timeWeek": 336,
-    "timeMonth": 420,
+    "timeMonth": 425,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2025-03-29": 11
@@ -289,7 +289,7 @@
     "time": 552,
     "timeDay": 478,
     "timeWeek": 356,
-    "timeMonth": 474,
+    "timeMonth": 479,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2025-03-26": 680,
@@ -319,7 +319,7 @@
     "time": 351,
     "timeDay": 458,
     "timeWeek": 331,
-    "timeMonth": 421,
+    "timeMonth": 427,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2025-03-26": 650,
@@ -385,7 +385,7 @@
     "time": 1031,
     "timeDay": 1616,
     "timeWeek": 1089,
-    "timeMonth": 1076,
+    "timeMonth": 1079,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2025-03-21": 11,
@@ -407,7 +407,7 @@
     "time": 621,
     "timeDay": 534,
     "timeWeek": 422,
-    "timeMonth": 421,
+    "timeMonth": 417,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2025-03-02": 17
@@ -427,7 +427,7 @@
     "time": 616,
     "timeDay": 673,
     "timeWeek": 481,
-    "timeMonth": 489,
+    "timeMonth": 493,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2025-02-02": 6,
@@ -440,15 +440,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/remix.xdc.network.ico",
     "slug": "xdc-remix-ide",
     "status": "up",
-    "uptime": "35.54%",
+    "uptime": "35.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.10%",
-    "uptimeYear": "35.54%",
+    "uptimeMonth": "74.21%",
+    "uptimeYear": "35.56%",
     "time": 3362,
     "timeDay": 579,
     "timeWeek": 394,
-    "timeMonth": 1616,
+    "timeMonth": 1559,
     "timeYear": 3362,
     "dailyMinutesDown": {
       "2025-03-11": 1208,
@@ -533,7 +533,7 @@
     "time": 745,
     "timeDay": 621,
     "timeWeek": 407,
-    "timeMonth": 974,
+    "timeMonth": 993,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-03-23": 8,
@@ -555,7 +555,7 @@
     "time": 379,
     "timeDay": 548,
     "timeWeek": 363,
-    "timeMonth": 377,
+    "timeMonth": 378,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-03-11": 203,
