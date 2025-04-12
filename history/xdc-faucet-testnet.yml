@@ -1,7 +1,7 @@
 url: https://faucet.apothem.network
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-11T23:59:15.016Z
+status: up
+code: 200
+responseTime: 386
+lastUpdated: 2025-04-12T00:30:08.026Z
 startTime: 2024-12-23T05:41:53.309Z
 generator: Upptime <https://github.com/upptime/upptime>
