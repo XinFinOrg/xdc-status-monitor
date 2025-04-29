@@ -1,7 +1,7 @@
 url: https://apothem.xdcscan.io
-status: up
-code: 200
-responseTime: 309
-lastUpdated: 2025-04-28T23:04:01.971Z
+status: down
+code: 500
+responseTime: 206
+lastUpdated: 2025-04-29T00:16:22.048Z
 startTime: 2024-12-23T05:41:52.480Z
 generator: Upptime <https://github.com/upptime/upptime>
