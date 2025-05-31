@@ -6,9 +6,9 @@
     "slug": "xdc-rpc-endpoint-mainnet",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "77.39%",
-    "uptimeWeek": "87.19%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "77.37%",
+    "uptimeWeek": "87.28%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "99.44%",
     "time": 340,
     "timeDay": 284,
@@ -19,7 +19,7 @@
       "2025-05-31": 324,
       "2025-05-30": 318,
       "2025-05-29": 402,
-      "2025-05-28": 248
+      "2025-05-28": 239
     }
   },
   {
@@ -31,7 +31,7 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.05%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.50%",
     "time": 568,
     "timeDay": 394,
@@ -134,7 +134,7 @@
     "uptime": "9.13%",
     "uptimeDay": "99.48%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "38.13%",
+    "uptimeMonth": "38.15%",
     "uptimeYear": "9.13%",
     "time": 518,
     "timeDay": 407,
@@ -516,7 +516,7 @@
     "uptime": "46.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.64%",
+    "uptimeMonth": "35.61%",
     "uptimeYear": "46.69%",
     "time": 2621,
     "timeDay": 3249,
@@ -524,7 +524,7 @@
     "timeMonth": 2062,
     "timeYear": 2621,
     "dailyMinutesDown": {
-      "2025-05-31": 1390,
+      "2025-05-31": 1401,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
