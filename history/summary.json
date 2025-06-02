@@ -4,11 +4,11 @@
     "url": "https://rpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "75.44%",
-    "uptimeWeek": "87.48%",
-    "uptimeMonth": "97.12%",
+    "uptimeDay": "75.42%",
+    "uptimeWeek": "87.58%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "99.46%",
     "time": 338,
     "timeDay": 289,
@@ -20,7 +20,7 @@
       "2025-06-01": 340,
       "2025-05-31": 346,
       "2025-05-30": 318,
-      "2025-05-29": 211
+      "2025-05-29": 201
     }
   },
   {
@@ -135,7 +135,7 @@
     "uptime": "9.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "42.10%",
+    "uptimeMonth": "42.13%",
     "uptimeYear": "9.81%",
     "time": 518,
     "timeDay": 364,
@@ -518,7 +518,7 @@
     "uptime": "46.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.67%",
+    "uptimeMonth": "31.64%",
     "uptimeYear": "46.34%",
     "time": 2626,
     "timeDay": 3315,
@@ -526,7 +526,7 @@
     "timeMonth": 2161,
     "timeYear": 2626,
     "dailyMinutesDown": {
-      "2025-06-02": 248,
+      "2025-06-02": 261,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
