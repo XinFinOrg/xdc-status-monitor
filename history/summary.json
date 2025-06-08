@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "66.33%",
-    "uptimeWeek": "85.10%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.39%",
+    "uptimeDay": "66.31%",
+    "uptimeWeek": "85.39%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "99.39%",
     "time": 341,
     "timeDay": 333,
-    "timeWeek": 363,
+    "timeWeek": 362,
     "timeMonth": 312,
     "timeYear": 341,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2025-06-06": 122,
       "2025-06-05": 110,
       "2025-06-04": 363,
-      "2025-06-03": 367
+      "2025-06-03": 337
     }
   },
   {
@@ -136,7 +136,7 @@
     "uptime": "13.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.93%",
+    "uptimeMonth": "62.96%",
     "uptimeYear": "13.23%",
     "time": 515,
     "timeDay": 502,
@@ -522,7 +522,7 @@
     "uptime": "44.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.84%",
+    "uptimeMonth": "10.81%",
     "uptimeYear": "44.58%",
     "time": 2630,
     "timeDay": 368,
@@ -530,7 +530,7 @@
     "timeMonth": 2629,
     "timeYear": 2630,
     "dailyMinutesDown": {
-      "2025-06-08": 733,
+      "2025-06-08": 747,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
