@@ -1,7 +1,7 @@
 url: https://wallet.xdc.network
-status: up
-code: 200
-responseTime: 351
-lastUpdated: 2025-06-22T23:04:15.493Z
+status: down
+code: 502
+responseTime: 21235
+lastUpdated: 2025-06-23T09:12:24.493Z
 startTime: 2024-12-23T06:28:31.363Z
 generator: Upptime <https://github.com/upptime/upptime>
