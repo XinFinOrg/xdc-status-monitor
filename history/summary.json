@@ -154,7 +154,7 @@
     "slug": "xdc-apothem-rpc-endpoint-by-open-scan-ai",
     "status": "up",
     "uptime": "35.57%",
-    "uptimeDay": "93.49%",
+    "uptimeDay": "93.71%",
     "uptimeWeek": "97.27%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "35.57%",
@@ -582,7 +582,7 @@
     "timeMonth": 3481,
     "timeYear": 2818,
     "dailyMinutesDown": {
-      "2025-08-06": 15,
+      "2025-08-06": 18,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
