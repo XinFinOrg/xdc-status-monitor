@@ -1,7 +1,7 @@
 url: https://xdctraderpc.xinfin.network
-status: up
-code: 200
-responseTime: 574
-lastUpdated: 2025-10-25T01:39:21.176Z
+status: down
+code: 502
+responseTime: 475
+lastUpdated: 2025-10-25T02:14:01.939Z
 startTime: 2025-01-07T07:06:34.516Z
 generator: Upptime <https://github.com/upptime/upptime>
