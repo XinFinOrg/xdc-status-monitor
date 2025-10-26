@@ -174,7 +174,7 @@
     "timeMonth": 2409,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2025-10-26": 320,
+      "2025-10-26": 331,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -675,7 +675,7 @@
     "timeMonth": 2944,
     "timeYear": 3225,
     "dailyMinutesDown": {
-      "2025-10-26": 320,
+      "2025-10-26": 331,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -958,9 +958,9 @@
     "url": "https://xdctraderpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/xdctraderpc.xinfin.network.ico",
     "slug": "xdc-trade-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "28.43%",
+    "uptimeDay": "29.14%",
     "uptimeWeek": "81.86%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "98.73%",
@@ -970,7 +970,7 @@
     "timeMonth": 442,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-10-26": 253,
+      "2025-10-26": 254,
       "2025-10-25": 1031,
       "2025-10-24": 544,
       "2025-09-26": 132,
