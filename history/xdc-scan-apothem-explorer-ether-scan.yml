@@ -1,7 +1,7 @@
 url: https://testnet.xdcscan.com
-status: down
-code: 500
-responseTime: 158
-lastUpdated: 2025-11-18T12:42:14.552Z
+status: up
+code: 200
+responseTime: 235
+lastUpdated: 2025-11-18T14:44:42.042Z
 startTime: 2024-12-23T06:13:07.110Z
 generator: Upptime <https://github.com/upptime/upptime>
