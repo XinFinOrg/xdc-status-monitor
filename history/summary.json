@@ -49,16 +49,16 @@
     "url": "https://rpc.xdcrpc.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xdcrpc.com.ico",
     "slug": "xdc-rpc-endpoint-by-open-scan-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "63.77%",
-    "uptimeWeek": "88.60%",
+    "uptimeDay": "64.36%",
+    "uptimeWeek": "88.59%",
     "uptimeMonth": "97.32%",
     "uptimeYear": "99.67%",
     "time": 440,
-    "timeDay": 376,
-    "timeWeek": 341,
-    "timeMonth": 336,
+    "timeDay": 373,
+    "timeWeek": 340,
+    "timeMonth": 335,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-11-23": 305,
@@ -72,7 +72,7 @@
       "2025-10-31": 8,
       "2025-09-29": 21,
       "2025-09-06": 294,
-      "2025-09-05": 125
+      "2025-09-05": 118
     }
   },
   {
@@ -161,7 +161,7 @@
     "timeMonth": 8550,
     "timeYear": 1417,
     "dailyMinutesDown": {
-      "2025-11-23": 883,
+      "2025-11-23": 896,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -459,7 +459,7 @@
     "uptime": "95.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.84%",
+    "uptimeMonth": "46.81%",
     "uptimeYear": "95.14%",
     "time": 1142,
     "timeDay": 269,
@@ -467,7 +467,7 @@
     "timeMonth": 4002,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-11-23": 884,
+      "2025-11-23": 896,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -718,7 +718,7 @@
     "timeMonth": 2911,
     "timeYear": 3195,
     "dailyMinutesDown": {
-      "2025-11-23": 884,
+      "2025-11-23": 896,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -1033,8 +1033,8 @@
     "status": "down",
     "uptime": "95.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.59%",
-    "uptimeMonth": "61.73%",
+    "uptimeWeek": "40.47%",
+    "uptimeMonth": "61.70%",
     "uptimeYear": "95.61%",
     "time": 472,
     "timeDay": 377,
@@ -1042,7 +1042,7 @@
     "timeMonth": 428,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-11-23": 884,
+      "2025-11-23": 896,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
