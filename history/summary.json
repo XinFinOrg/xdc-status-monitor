@@ -49,15 +49,15 @@
     "url": "https://rpc.xdcrpc.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xdcrpc.com.ico",
     "slug": "xdc-rpc-endpoint-by-open-scan-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "63.29%",
-    "uptimeWeek": "89.21%",
+    "uptimeDay": "63.25%",
+    "uptimeWeek": "89.20%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.66%",
     "time": 442,
     "timeDay": 367,
-    "timeWeek": 340,
+    "timeWeek": 341,
     "timeMonth": 335,
     "timeYear": 442,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2025-09-29": 21,
       "2025-09-06": 294,
       "2025-09-05": 134,
-      "2025-08-29": 72
+      "2025-08-29": 60
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 8550,
     "timeYear": 1417,
     "dailyMinutesDown": {
-      "2025-11-23": 628,
+      "2025-11-23": 638,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -460,7 +460,7 @@
     "uptime": "95.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.42%",
+    "uptimeMonth": "47.40%",
     "uptimeYear": "95.19%",
     "time": 1142,
     "timeDay": 269,
@@ -468,7 +468,7 @@
     "timeMonth": 4002,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-11-23": 628,
+      "2025-11-23": 638,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -719,7 +719,7 @@
     "timeMonth": 2911,
     "timeYear": 3195,
     "dailyMinutesDown": {
-      "2025-11-23": 628,
+      "2025-11-23": 638,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -1034,8 +1034,8 @@
     "status": "down",
     "uptime": "95.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.12%",
-    "uptimeMonth": "62.31%",
+    "uptimeWeek": "43.03%",
+    "uptimeMonth": "62.29%",
     "uptimeYear": "95.66%",
     "time": 472,
     "timeDay": 377,
@@ -1043,7 +1043,7 @@
     "timeMonth": 428,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-11-23": 628,
+      "2025-11-23": 638,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
