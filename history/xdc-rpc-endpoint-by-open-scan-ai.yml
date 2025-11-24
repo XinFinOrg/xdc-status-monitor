@@ -1,7 +1,7 @@
 url: https://rpc.xdcrpc.com
-status: up
-code: 200
-responseTime: 431
-lastUpdated: 2025-11-24T16:33:20.904Z
+status: down
+code: 502
+responseTime: 472
+lastUpdated: 2025-11-24T16:43:16.214Z
 startTime: 2024-12-23T06:13:01.061Z
 generator: Upptime <https://github.com/upptime/upptime>
