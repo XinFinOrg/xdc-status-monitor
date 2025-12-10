@@ -1,7 +1,7 @@
 url: https://rpc.apothem.network
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2025-12-10T04:41:09.425Z
+status: down
+code: 502
+responseTime: 548
+lastUpdated: 2025-12-10T05:01:15.513Z
 startTime: 2024-12-23T05:41:50.969Z
 generator: Upptime <https://github.com/upptime/upptime>
