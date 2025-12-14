@@ -4,16 +4,16 @@
     "url": "https://rpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "95.36%",
+    "uptimeDay": "95.33%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.97%",
     "time": 346,
-    "timeDay": 319,
-    "timeWeek": 311,
-    "timeMonth": 342,
+    "timeDay": 333,
+    "timeWeek": 316,
+    "timeMonth": 344,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-12-14": 67,
@@ -44,8 +44,7 @@
       "2025-06-15": 52,
       "2025-06-11": 450,
       "2025-06-10": 1428,
-      "2025-06-09": 962,
-      "2025-06-08": 7
+      "2025-06-09": 962
     }
   },
   {
@@ -97,22 +96,22 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "68.09%",
-    "uptimeWeek": "83.81%",
-    "uptimeMonth": "96.27%",
+    "uptimeDay": "68.06%",
+    "uptimeWeek": "83.89%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "99.68%",
     "time": 327,
     "timeDay": 313,
     "timeWeek": 353,
-    "timeMonth": 356,
+    "timeMonth": 355,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-12-14": 461,
+      "2025-12-14": 462,
       "2025-12-13": 627,
       "2025-12-12": 495,
-      "2025-12-11": 54
+      "2025-12-11": 45
     }
   },
   {
@@ -150,7 +149,7 @@
     "timeMonth": 14893,
     "timeYear": 1909,
     "dailyMinutesDown": {
-      "2025-12-14": 1430,
+      "2025-12-14": 1436,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -478,7 +477,7 @@
     "timeMonth": 11267,
     "timeYear": 1852,
     "dailyMinutesDown": {
-      "2025-12-14": 1430,
+      "2025-12-14": 1436,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -753,7 +752,7 @@
     "timeMonth": 2948,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2025-12-14": 1430,
+      "2025-12-14": 1437,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -1094,7 +1093,7 @@
     "status": "up",
     "uptime": "91.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.55%",
+    "uptimeWeek": "94.61%",
     "uptimeMonth": "37.82%",
     "uptimeYear": "91.57%",
     "time": 473,
