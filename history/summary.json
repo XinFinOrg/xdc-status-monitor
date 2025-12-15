@@ -94,22 +94,22 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "64.42%",
-    "uptimeWeek": "83.83%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "64.80%",
+    "uptimeWeek": "84.04%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "99.69%",
     "time": 328,
-    "timeDay": 315,
-    "timeWeek": 353,
+    "timeDay": 323,
+    "timeWeek": 354,
     "timeMonth": 355,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-12-15": 298,
+      "2025-12-15": 299,
       "2025-12-14": 465,
       "2025-12-13": 627,
-      "2025-12-12": 244
+      "2025-12-12": 222
     }
   },
   {
@@ -147,7 +147,7 @@
     "timeMonth": 14893,
     "timeYear": 1909,
     "dailyMinutesDown": {
-      "2025-12-15": 894,
+      "2025-12-15": 902,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -476,7 +476,7 @@
     "timeMonth": 11267,
     "timeYear": 1852,
     "dailyMinutesDown": {
-      "2025-12-15": 894,
+      "2025-12-15": 902,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -753,7 +753,7 @@
     "timeMonth": 2948,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2025-12-15": 894,
+      "2025-12-15": 903,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -1047,7 +1047,7 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "54.82%",
+    "uptimeWeek": "54.90%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "98.54%",
     "time": 1638,
