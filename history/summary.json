@@ -54,22 +54,22 @@
     "url": "https://rpc.xdcrpc.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xdcrpc.com.ico",
     "slug": "xdc-rpc-endpoint-by-open-scan-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "63.31%",
-    "uptimeWeek": "82.88%",
-    "uptimeMonth": "96.06%",
+    "uptimeDay": "63.89%",
+    "uptimeWeek": "82.96%",
+    "uptimeMonth": "96.08%",
     "uptimeYear": "99.67%",
     "time": 440,
-    "timeDay": 363,
+    "timeDay": 364,
     "timeWeek": 448,
     "timeMonth": 418,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2025-12-16": 501,
+      "2025-12-16": 502,
       "2025-12-15": 570,
       "2025-12-14": 397,
-      "2025-12-13": 260
+      "2025-12-13": 251
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 13481,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2025-12-16": 1386,
+      "2025-12-16": 1395,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -478,7 +478,7 @@
     "timeMonth": 10928,
     "timeYear": 1845,
     "dailyMinutesDown": {
-      "2025-12-16": 1386,
+      "2025-12-16": 1395,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -756,7 +756,7 @@
     "timeMonth": 3073,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2025-12-16": 1386,
+      "2025-12-16": 1395,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -1051,7 +1051,7 @@
     "status": "up",
     "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.98%",
+    "uptimeWeek": "74.07%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "98.55%",
     "time": 1633,
