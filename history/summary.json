@@ -4,16 +4,16 @@
     "url": "https://rpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "91.48%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "91.45%",
     "uptimeWeek": "95.69%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 353,
-    "timeDay": 352,
-    "timeWeek": 695,
-    "timeMonth": 551,
+    "timeDay": 338,
+    "timeWeek": 684,
+    "timeMonth": 546,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-12-17": 113,
@@ -47,7 +47,7 @@
       "2025-06-15": 52,
       "2025-06-11": 450,
       "2025-06-10": 1428,
-      "2025-06-09": 478
+      "2025-06-09": 445
     }
   },
   {
@@ -57,7 +57,7 @@
     "slug": "xdc-rpc-endpoint-by-open-scan-ai",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "62.21%",
+    "uptimeDay": "63.21%",
     "uptimeWeek": "80.82%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "99.63%",
@@ -105,7 +105,7 @@
     "uptimeYear": "99.68%",
     "time": 327,
     "timeDay": 314,
-    "timeWeek": 335,
+    "timeWeek": 334,
     "timeMonth": 349,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
     "timeMonth": 13481,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2025-12-17": 699,
+      "2025-12-17": 713,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 10928,
     "timeYear": 1845,
     "dailyMinutesDown": {
-      "2025-12-17": 699,
+      "2025-12-17": 713,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -761,7 +761,7 @@
     "timeMonth": 3073,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2025-12-17": 699,
+      "2025-12-17": 713,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1057,7 +1057,7 @@
     "status": "up",
     "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.45%",
+    "uptimeWeek": "81.60%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "98.55%",
     "time": 1633,
