@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.03%",
+    "uptimeWeek": "97.06%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.04%",
     "time": 353,
     "timeDay": 471,
-    "timeWeek": 845,
+    "timeWeek": 863,
     "timeMonth": 555,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -98,11 +98,11 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "63.80%",
-    "uptimeWeek": "81.85%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "63.75%",
+    "uptimeWeek": "81.94%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "99.65%",
     "time": 339,
     "timeDay": 369,
@@ -110,11 +110,11 @@
     "timeMonth": 366,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2025-12-21": 142,
+      "2025-12-21": 143,
       "2025-12-20": 454,
       "2025-12-19": 544,
       "2025-12-18": 524,
-      "2025-12-17": 160
+      "2025-12-17": 151
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 11009,
     "timeYear": 1893,
     "dailyMinutesDown": {
-      "2025-12-21": 460,
+      "2025-12-21": 466,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 10495,
     "timeYear": 1833,
     "dailyMinutesDown": {
-      "2025-12-21": 460,
+      "2025-12-21": 466,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -773,7 +773,7 @@
     "timeMonth": 3053,
     "timeYear": 3183,
     "dailyMinutesDown": {
-      "2025-12-21": 460,
+      "2025-12-21": 467,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -1122,7 +1122,7 @@
     "uptime": "91.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.95%",
+    "uptimeMonth": "43.97%",
     "uptimeYear": "91.72%",
     "time": 472,
     "timeDay": 512,
