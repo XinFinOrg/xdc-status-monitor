@@ -57,21 +57,21 @@
     "slug": "xdc-rpc-endpoint-by-open-scan-ai",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "52.71%",
-    "uptimeWeek": "82.43%",
+    "uptimeDay": "53.23%",
+    "uptimeWeek": "82.44%",
     "uptimeMonth": "95.96%",
     "uptimeYear": "99.66%",
     "time": 424,
-    "timeDay": 355,
-    "timeWeek": 363,
+    "timeDay": 352,
+    "timeWeek": 362,
     "timeMonth": 410,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-12-23": 450,
+      "2025-12-23": 456,
       "2025-12-22": 457,
       "2025-12-21": 326,
       "2025-12-20": 477,
-      "2025-12-19": 63
+      "2025-12-19": 55
     }
   },
   {
@@ -151,7 +151,7 @@
     "timeMonth": 10636,
     "timeYear": 1900,
     "dailyMinutesDown": {
-      "2025-12-23": 948,
+      "2025-12-23": 963,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 10715,
     "timeYear": 1844,
     "dailyMinutesDown": {
-      "2025-12-23": 948,
+      "2025-12-23": 963,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -776,7 +776,7 @@
     "timeMonth": 3045,
     "timeYear": 3191,
     "dailyMinutesDown": {
-      "2025-12-23": 949,
+      "2025-12-23": 963,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1127,7 +1127,7 @@
     "uptime": "91.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.64%",
+    "uptimeMonth": "51.67%",
     "uptimeYear": "91.78%",
     "time": 472,
     "timeDay": 0,
