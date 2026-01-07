@@ -1,7 +1,7 @@
 url: https://xdc.dev
-status: up
-code: 200
-responseTime: 1212
-lastUpdated: 2026-01-06T23:05:55.785Z
+status: down
+code: 502
+responseTime: 249
+lastUpdated: 2026-01-07T12:17:16.211Z
 startTime: 2024-12-23T05:41:54.753Z
 generator: Upptime <https://github.com/upptime/upptime>
