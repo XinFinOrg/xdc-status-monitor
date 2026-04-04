@@ -1,7 +1,7 @@
 url: https://rpc.xinfin.network
-status: up
-code: 200
-responseTime: 361
-lastUpdated: 2026-04-04T13:18:19.888Z
+status: down
+code: 500
+responseTime: 307
+lastUpdated: 2026-04-04T13:40:39.147Z
 startTime: 2024-12-23T05:41:50.312Z
 generator: Upptime <https://github.com/upptime/upptime>
