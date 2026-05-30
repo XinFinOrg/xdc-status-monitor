@@ -4,16 +4,16 @@
     "url": "https://rpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "92.19%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "92.16%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 346,
-    "timeDay": 219,
-    "timeWeek": 202,
-    "timeMonth": 236,
+    "timeDay": 209,
+    "timeWeek": 198,
+    "timeMonth": 235,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2026-05-30": 113,
@@ -34,7 +34,7 @@
       "2026-04-15": 99,
       "2026-04-14": 97,
       "2026-04-13": 154,
-      "2026-04-12": 248
+      "2026-04-12": 165
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "32.71%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "34.27%",
     "uptimeWeek": "65.43%",
-    "uptimeMonth": "85.26%",
-    "uptimeYear": "98.77%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "98.78%",
     "time": 369,
-    "timeDay": 323,
-    "timeWeek": 739,
-    "timeMonth": 439,
+    "timeDay": 313,
+    "timeWeek": 733,
+    "timeMonth": 438,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2026-05-30": 905,
+      "2026-05-30": 906,
       "2026-05-29": 413,
       "2026-05-28": 430,
       "2026-05-27": 596,
@@ -129,7 +129,7 @@
       "2026-05-10": 401,
       "2026-05-09": 458,
       "2026-05-08": 344,
-      "2026-05-07": 148
+      "2026-05-07": 79
     }
   },
   {
@@ -425,7 +425,7 @@
     "timeMonth": 876,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2026-05-30": 1351,
+      "2026-05-30": 1374,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -707,7 +707,7 @@
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-05-30": 1352,
+      "2026-05-30": 1374,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -890,7 +890,7 @@
     "timeMonth": 784,
     "timeYear": 3313,
     "dailyMinutesDown": {
-      "2026-05-30": 1352,
+      "2026-05-30": 1374,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
