@@ -4,15 +4,15 @@
     "url": "https://rpc.xinfin.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.xinfin.network.ico",
     "slug": "xdc-rpc-endpoint-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "98.26%",
+    "uptimeDay": "98.24%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.01%",
     "time": 346,
-    "timeDay": 150,
-    "timeWeek": 175,
+    "timeDay": 176,
+    "timeWeek": 183,
     "timeMonth": 234,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
       "2026-04-15": 99,
       "2026-04-14": 97,
       "2026-04-13": 154,
-      "2026-04-12": 264
+      "2026-04-12": 248
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "45.29%",
-    "uptimeWeek": "67.80%",
-    "uptimeMonth": "85.43%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "45.25%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "85.80%",
+    "uptimeYear": "98.82%",
     "time": 369,
-    "timeDay": 287,
-    "timeWeek": 745,
+    "timeDay": 284,
+    "timeWeek": 739,
     "timeMonth": 438,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2026-05-30": 667,
+      "2026-05-30": 668,
       "2026-05-29": 413,
       "2026-05-28": 430,
       "2026-05-27": 596,
@@ -129,7 +129,7 @@
       "2026-05-10": 401,
       "2026-05-09": 458,
       "2026-05-08": 344,
-      "2026-05-07": 312
+      "2026-05-07": 148
     }
   },
   {
@@ -414,7 +414,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apothem.xdcscan.io.ico",
     "slug": "xdc-scan-explorer-testnet",
     "status": "down",
-    "uptime": "81.28%",
+    "uptime": "81.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -425,7 +425,7 @@
     "timeMonth": 876,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2026-05-30": 1079,
+      "2026-05-30": 1113,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -707,7 +707,7 @@
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-05-30": 1079,
+      "2026-05-30": 1113,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -890,7 +890,7 @@
     "timeMonth": 784,
     "timeYear": 3313,
     "dailyMinutesDown": {
-      "2026-05-30": 1079,
+      "2026-05-30": 1113,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
