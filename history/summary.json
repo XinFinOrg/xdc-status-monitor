@@ -104,19 +104,20 @@
     "url": "https://rpc.apothem.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.apothem.network.ico",
     "slug": "xdc-rpc-endpoint-testnet-apothem",
-    "status": "down",
+    "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "64.27%",
-    "uptimeWeek": "56.14%",
-    "uptimeMonth": "82.96%",
-    "uptimeYear": "98.58%",
+    "uptimeDay": "64.30%",
+    "uptimeWeek": "55.95%",
+    "uptimeMonth": "82.89%",
+    "uptimeYear": "98.57%",
     "time": 368,
-    "timeDay": 602,
-    "timeWeek": 779,
-    "timeMonth": 446,
+    "timeDay": 569,
+    "timeWeek": 778,
+    "timeMonth": 445,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-06-01": 501,
+      "2026-06-02": 16,
+      "2026-06-01": 515,
       "2026-05-31": 1073,
       "2026-05-30": 935,
       "2026-05-29": 413,
@@ -417,8 +418,8 @@
     "status": "up",
     "uptime": "81.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.61%",
-    "uptimeMonth": "2.61%",
+    "uptimeWeek": "19.91%",
+    "uptimeMonth": "2.67%",
     "uptimeYear": "72.92%",
     "time": 1605,
     "timeDay": 304,
@@ -648,8 +649,7 @@
     "dailyMinutesDown": {
       "2026-02-24": 24,
       "2026-02-08": 11,
-      "2025-11-18": 160,
-      "2025-06-02": 19
+      "2025-11-18": 160
     }
   },
   {
@@ -697,18 +697,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.xinfin.org.ico",
     "slug": "xdc-forum",
     "status": "down",
-    "uptime": "75.18%",
+    "uptime": "75.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.25%",
+    "uptimeYear": "64.24%",
     "time": 522,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-06-01": 1427,
+      "2026-06-02": 17,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -893,7 +894,8 @@
     "timeMonth": 610,
     "timeYear": 3289,
     "dailyMinutesDown": {
-      "2026-06-01": 1427,
+      "2026-06-02": 17,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1256,8 +1258,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
